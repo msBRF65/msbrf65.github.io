@@ -1,0 +1,7 @@
+{
+  "name": "profile",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "hugo",
+  "workspaceFolder": "/src",
+	"overrideCommand": true
+}
