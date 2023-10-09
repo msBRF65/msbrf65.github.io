@@ -33,3 +33,7 @@ type: "page"
   - Passed in Spring 2022
 - Fundamental Information Technology Engineer Examination (Information-technology Promotion Agency, Japan)
   - Passed in Spring 2019
+
+## Scholarships
+- JSPS Research Fellowship(DC1)
+  -  Apr. 2024 - Mar. 2027
