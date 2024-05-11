@@ -6,8 +6,10 @@ type: "page"
 ---
 
 ## Education
+- Ph.D. Information Science and Technology, the University of Tokyo.
+  - Apr. 2024 - 
 - M.E. Information Science and Technology, the University of Tokyo.
-  - Apr. 2022 - 
+  - Apr. 2022 - Mar. 2024
 - B.E. Mathematical Engineering and Information Physics, the University of Tokyo.
   - Apr. 2018 - Mar. 2022
 
@@ -35,5 +37,5 @@ type: "page"
   - Passed in Spring 2019
 
 ## Scholarships
-- JSPS Research Fellowship(DC1)
+- [JSPS Research Fellowship (DC1)](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24KJ0848/)
   -  Apr. 2024 - Mar. 2027
