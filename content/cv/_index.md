@@ -15,7 +15,7 @@ type: "page"
 
 ## Work Experience
 - Parttime Engineer at T2, Inc.
-  - Nov. 2022 - 
+  - Nov. 2022 - Sep. 2024
   - Development of localization technology
 - Internship at Preferred Networks, Inc.
   - Aug. 2022 - Sep. 2022
